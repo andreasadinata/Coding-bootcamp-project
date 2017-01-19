@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h2>
+		1. Open this Link THERE!
+	</h2>
+	<p>
+		<a href="https://www.stackoverflow.com" target="_blank">Stack Overflow</a>
+		<em>That opens in the new tab</em>
+	</p>
+	<h2>
+		2. Click a link to send email!
+	</h2>
+	<p>
+		<a href="mailto:andreasadinata@hotmail.com?subject=Link here, Link there">email here</a>
+	</p>
+</body>
+</html>
